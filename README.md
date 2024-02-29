@@ -2,6 +2,8 @@
 
 ## Evolution in Electric Vehicles (EVs) Research Paper
 
+*We have also written a review paper on this research topic. To read that, click [here](https://github.com/Tempestyash123456/Mini-Project-Sem-4/blob/main/4-EV-review-paper.pdf)*
+
 ### Overview
 
 This repository contains the documentation for the research paper titled **Evolution in EVs,** which explores innovative concepts for enhancing the reliability and safety of electric vehicles. The primary focus of this research is the proposal for a backup recovery vehicle designed to address potential challenges faced by EVs in emergencies.
